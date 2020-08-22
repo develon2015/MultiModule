@@ -1,0 +1,3 @@
+plugins {
+    id 'java' // 使用java插件,以应用clean等任务
+}

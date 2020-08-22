@@ -1,0 +1,3 @@
+rootProject.name = 'application'
+// 包含依赖项目
+include ':MySpringBoot'
